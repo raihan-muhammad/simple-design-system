@@ -1,0 +1,19 @@
+import { Meta, Canvas, Story, Source } from "@storybook/addon-docs";
+// import dedent from "ts-dedent";
+
+import Sample from "./example/sample";
+
+<Meta title="Components/Badge"/>
+
+# Badge
+
+A most importent components that simply let user interact with the app, [[Default Example](/docs/components-badge-example--success)] if you want to see in action
+
+export const Template = (args) => <Badge {...args}/>;
+Template.args = {
+	state: 'success',
+}
+
+<Story name="Introduction" args={{}}>
+	{Template.bind({})}
+</Story>
