@@ -1,0 +1,1 @@
+{"version":3,"file":"Default.stories-bbd75b5f.js","sources":["../../src/components/Bagde/index.tsx"],"sourcesContent":["function Brand() {\n\treturn (<h1>Halaman Brand</h1>)\n}\n\nexport default Brand;"],"names":["Brand"],"mappings":"qNAAA,SAASA,GAAQ,CAChB,SAAQ,KAAA,CAAA,SAAI,eAAA,CAAkB,CAC/B,CAFSA,EAAAA,EAAAA;;;;;;;;;;;;"}
